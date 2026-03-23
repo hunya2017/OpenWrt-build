@@ -15,4 +15,6 @@
 
 # Add a feed source
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
+# Add kenzok8/jell feed source
+echo 'src-git kenzo https://github.com/kenzok8/jell' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
